@@ -1,0 +1,83 @@
+body, html{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: Minecraftia;
+}
+.contact{
+    font-family: Minecraftia;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+.body{
+    font-family: Minecraftia;
+    font-size: medium;
+    margin-left: 33%;
+    float: left;
+}
+a{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+}
+.insta{
+    text-align: center;
+    color: white;
+    font-family: Minecraftia;
+    font-size: medium;
+}
+a :hover{
+    color: gray;
+}
+.instagram{
+
+    display: inline;
+    text-align: left;
+}
+.p{
+
+    display: inline;
+    text-align: right;
+}
+.gmailinfo{
+    text-align: center;
+    color: white;
+    font-family: Minecraftia;
+    font-size: medium;
+}
+.business{
+
+    display: inline;
+    text-align: left;
+}
+.actual{
+
+    display: inline;
+    text-align: right;
+}
+.linked{
+    color: white;
+    font-family: Minecraftia;
+    font-size: medium;
+}
+.class{
+
+    display: inline;
+    text-align: left
+}
+.brandon{
+
+    display: inline;
+    text-align: right;
+}
+div{
+    width:20%;
+    margin-left: 40%;
+}

@@ -1,0 +1,72 @@
+h1{
+    text-align: center;
+    color: white;
+    font-family: Minecraftia;
+    font-size: 40px;
+}
+body ,html{
+    background-color: black;
+}
+a :hover{
+    color: gray;
+}
+a.link{
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-family: Minecraftia;
+    margin-right: 500px;
+    color: white;
+    margin-left: 500px;
+}
+li{
+    text-align: center;
+    font-family: Minecraftia;
+    color: white;
+    margin-left: -3%;
+    list-style-type: none;
+}
+p.bodiesandlens{
+    font-size: 30px;
+    text-align: center;
+    font-family: Minecraftia;
+}
+div#format{
+    width: 20%;
+    margin-left: 40.5%;
+    margin-right: 39.5%;
+}
+a.d7100{
+    color: white;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+a.d3000{
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+}
+a.l18{
+    color: white;
+    text-decoration: none;
+}
+a.l50{
+    color: white;
+    text-decoration: none;
+}
+a.l55{
+    color: white;
+    text-decoration: none;
+}
+a.l80{
+    color: white;
+    text-decoration: none;
+}
+a.l70{
+    color: white;
+    text-decoration: none;
+}
+li :hover{
+    color: gray;
+}

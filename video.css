@@ -1,0 +1,20 @@
+h1{
+    font-family: Minecraftia;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+body ,html{
+    background-color: black;
+}
+a :hover{
+    color: gray;
+}
+a{    
+    text-decoration: none;
+}
+#resin{
+    width: 10%;
+    margin-left: 45%;
+    margin-right: 45%;
+}

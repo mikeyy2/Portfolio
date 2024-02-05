@@ -1,0 +1,19 @@
+div {
+    width: 15%;
+    margin-left: 42.5%;
+}
+p{
+    font-family: Minecraftia;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    color: gray;
+}
+body, html{
+    background-color: black;
+}
